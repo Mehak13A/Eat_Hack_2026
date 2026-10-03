@@ -1,6 +1,6 @@
 # Trend to Till
 
-** Authors: Mehak Agrawal and Anitha Irene**
+**Authors: Mehak Agrawal and Anitha Irene**
 
 **From trend to till, with evidence.**
 
