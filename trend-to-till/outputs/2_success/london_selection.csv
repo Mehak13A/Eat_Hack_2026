@@ -1,0 +1,7 @@
+product_id,product_name,uk_success_probability,uk_verdict,p_London,sent_to_basket_twins,reason
+T004,Hojicha,0.977,Likely success,0.988,yes,London probability 0.99; UK verdict Likely success
+T003,Cottage-cheese-based ice cream and frozen dessert tubs,0.976,Likely success,0.989,yes,London probability 0.99; UK verdict Likely success
+T006,Sparkling cold brew coffee tonics,0.97,Likely success,0.983,yes,London probability 0.98; UK verdict Likely success
+T005,Tea-flavoured fizzy drinks,0.804,Likely success,0.859,yes,London probability 0.86; UK verdict Likely success
+T001,Pandan and coconut flavoured iced lattes,0.724,Likely success,0.793,yes,London probability 0.79; UK verdict Likely success
+T002,Pickle-flavoured and sweet-sour pickle snacks,0.178,Likely fail,0.201,no,London probability 0.20 below 0.5

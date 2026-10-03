@@ -1,0 +1,11 @@
+attribute,description,initial_weight
+search_trend_growth,Year-on-year growth in search interest for the problem/category (0-10),0.1
+workaround_evidence,How much visible DIY workaround activity exists (0-10),0.1
+competitor_dissatisfaction,"How unhappy users are with current alternatives, from reviews (0-10)",0.1
+price_competitiveness,How good the price is versus alternatives (0-10),0.15
+quality_score,Product quality from testing and early reviews (0-10),0.15
+brand_strength,Awareness and trust in the brand (0-10),0.1
+sustainability_score,Environmental credentials (0-10),0.05
+innovation_level,How novel the product is (0-10),0.05
+marketing_spend,Relative launch marketing budget (0-10),0.1
+distribution_reach,Share of retail/online channels stocking it (0-10),0.1

@@ -1,0 +1,7 @@
+product_id,product_name,category,launch_year,launch_month,search_trend_growth,workaround_evidence,competitor_dissatisfaction,price_competitiveness,quality_score,brand_strength,sustainability_score,innovation_level,marketing_spend,distribution_reach
+T001,Pandan and coconut flavoured iced lattes,Milk-based drinks,2026,11,7.2,5.0,5.0,5.0,5.0,5.0,5.0,6.0,5.0,5.0
+T002,Pickle-flavoured and sweet-sour pickle snacks,Savoury snacks,2026,11,6.5,2.5,5.0,5.0,5.0,5.0,5.0,6.0,5.0,5.0
+T003,Cottage-cheese-based ice cream and frozen dessert tubs,Ice cream and frozen desserts,2026,11,5.9,8.8,5.0,5.0,5.0,5.0,5.0,8.0,5.0,5.0
+T004,Hojicha,Tea and coffee,2026,11,5.7,8.8,5.0,5.0,5.0,5.0,5.0,6.0,5.0,5.0
+T005,Tea-flavoured fizzy drinks,Soft drinks (with added sugar),2026,11,5.6,6.2,5.0,5.0,5.0,5.0,5.0,6.0,5.0,5.0
+T006,Sparkling cold brew coffee tonics,Tea and coffee,2026,11,5.0,8.8,5.0,5.0,5.0,5.0,5.0,6.0,5.0,5.0

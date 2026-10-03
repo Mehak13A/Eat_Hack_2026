@@ -1,0 +1,5 @@
+pandas
+numpy
+scikit-learn
+matplotlib
+anthropic   # only needed for live mode of trend_agent.py
