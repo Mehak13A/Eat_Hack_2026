@@ -1,5 +1,7 @@
 # Trend to Till
 
+** Authors: Mehak Agrawal and Anitha Irene**
+
 **From trend to till, with evidence.**
 
 Trend to Till finds **what** to sell next (an emerging UK food and drink trend), checks **whether** it is
