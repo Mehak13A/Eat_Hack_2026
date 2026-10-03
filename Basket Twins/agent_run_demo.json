@@ -1,0 +1,752 @@
+{
+  "run_date": "2026-10-03",
+  "model": "claude-sonnet-5-5",
+  "trends": [
+    {
+      "trend_name": "Pandan and coconut flavoured iced lattes, syrups and ready-to-drink bottles",
+      "category": "milk_based_drinks",
+      "origin_country": "Southeast Asia (Malaysia, Philippines, Singapore)",
+      "why": "Pandan is moving from Asian bakeries into UK caf\u00e9 chains, and trade press tips it as the next matcha-style flavour, but UK shop-bought versions are still scarce.",
+      "uk_availability": "limited",
+      "availability_reason": "Pandan iced drinks are sold in UK caf\u00e9s. One national chain launched a pandan matcha range in April 2026. I found no pandan or coconut-pandan ready-to-drink bottles or syrups on UK supermarket shelves. The Sainsbury's syrup listing I found showed maple and caf\u00e9-style brands, with no pandan. Pandan leaves and essence are sold mainly through Asian grocers and online marketplaces. The UK ready-to-drink iced coffee aisle is growing, but the products I found were plain, caramel or decaf lattes, not pandan.",
+      "evidence": [
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "UK TikTok taste-test videos of a national caf\u00e9 chain's iced pandan matcha latte. One video has about 7,200 likes. Creators call it a new flavour and urge people to try it before it disappears. That suggests a limited-time menu item, not a permanent one.",
+          "source_name": "TikTok (Pandan Matcha Black Sheep Coffee discover page)",
+          "url": "https://www.tiktok.com/discover/pandan-matcha-black-sheep-coffee"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-04",
+          "growth_pct": 227.0,
+          "metric_text": "A UK coffee chain's iced drink sales rose 227% year on year in the last week of April after its spring range launch. The spring range included pandan drinks, but the figure covers all iced drinks, not pandan alone.",
+          "source_name": "Lumina Intelligence",
+          "url": "https://www.lumina-intelligence.com/blog/foodservice/uk-coffee-market-size-growth-share-statistics-2025/"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-05",
+          "growth_pct": 123.0,
+          "metric_text": "Card payment data showed UK iced coffee sales up 123% year on year over the May 2026 bank holiday, helped by a heatwave. This is general iced coffee demand, not pandan-specific.",
+          "source_name": "Tea & Coffee Trade Journal (citing Square UK data)",
+          "url": "https://www.teaandcoffee.net/blog/39416/as-temperatures-rise-more-uk-consumers-grab-iced-coffees/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-03",
+          "growth_pct": null,
+          "metric_text": "A specialty coffee trade site argues pandan could be the next big coffee flavour. It cites the Southeast Asian diaspora, Gen Z and social media. It says pandan suits lattes, cold brew and lemonades with coconut milk. It also says fresh pandan is scarce in the West, so caf\u00e9s use powder.",
+          "source_name": "Perfect Daily Grind",
+          "url": "https://perfectdailygrind.com/2026/03/why-pandan-is-next-coffee-flavour-trend/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-04",
+          "growth_pct": null,
+          "metric_text": "A UK coffee supplier's 2026 menu trends piece lists pandan, ube, yuzu and cardamom as trending in UK coffee shops. It also says iced coffee has overtaken hot coffee as the most-ordered drink in many UK caf\u00e9s.",
+          "source_name": "Verde Coffee blog",
+          "url": "https://verdecoffee.co.uk/blogs/news/key-coffee-shop-menu-trends-in-the-uk-2026"
+        },
+        {
+          "source_type": "search_data",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-04",
+          "growth_pct": 300.0,
+          "metric_text": "A pandan products seller claims searches for 'pandan latte' rose over 300% in France and Europe in 12 months. The claim comes from a seller, with no independent source given and no UK-specific figure, so treat it as low reliability.",
+          "source_name": "Pandan-bio (Pandan for Coffee Shops guide)",
+          "url": "https://pandan-bio.fr/en/blogs/pandan-guide/pandan-coffee-shops-guide-complet"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-09",
+          "growth_pct": null,
+          "metric_text": "Recent TikTok pandan syrup and iced latte videos, with one at about 19,200 likes. Many are homemade pandan syrup recipes. They show interest in pandan syrup, but the creators are mostly not UK-based.",
+          "source_name": "TikTok (Pandan Syrup Drinks discover page)",
+          "url": "https://www.tiktok.com/discover/pandan-syrup-drinks-by-evie"
+        },
+        {
+          "source_type": "prediction",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-01",
+          "growth_pct": null,
+          "metric_text": "NPR's roundup of 2026 food trend predictions includes pandan. One expert says it will be everywhere and that coffee shops should start with pandan foam. This is a US-based forecast.",
+          "source_name": "NPR",
+          "url": "https://www.npr.org/2026/01/07/nx-s1-5664789/the-foods-and-flavors-that-could-be-2026s-newest-trends"
+        }
+      ],
+      "search_urls": [
+        "https://pandan-bio.fr/en/blogs/pandan-guide/pandan-coffee-shops-guide-complet",
+        "https://perfectdailygrind.com/2026/03/why-pandan-is-next-coffee-flavour-trend/",
+        "https://verdecoffee.co.uk/blogs/news/key-coffee-shop-menu-trends-in-the-uk-2026",
+        "https://www.lumina-intelligence.com/blog/foodservice/uk-coffee-market-size-growth-share-statistics-2025/",
+        "https://www.npr.org/2026/01/07/nx-s1-5664789/the-foods-and-flavors-that-could-be-2026s-newest-trends",
+        "https://www.teaandcoffee.net/blog/39416/as-temperatures-rise-more-uk-consumers-grab-iced-coffees/",
+        "https://www.tiktok.com/discover/pandan-matcha-black-sheep-coffee",
+        "https://www.tiktok.com/discover/pandan-syrup-drinks-by-evie"
+      ]
+    },
+    {
+      "trend_name": "Exosome and salmon-DNA (PDRN) regenerative serums",
+      "category": "skincare",
+      "origin_country": "South Korea",
+      "why": "Exosome serum was the top-growing skincare search topic in one 2026 trend ranking (+557%), and K-beauty brands are bringing clinical-style actives to mass retail, but most UK PDRN products are still the first generation, with exosome formats only just arriving.",
+      "uk_availability": "widespread",
+      "availability_reason": "A leading PDRN serum is sold at Amazon, Boots and LookFantastic. Other PDRN serums are sold at Cult Beauty and LookFantastic. Superdrug has expanded its K-beauty range across stores and online, and its PDRN products are showing strong momentum. Space NK stocks a \u00a379 exosome-plus-PDRN serum and a \u00a320 exosome serum. Prices run from about \u00a34 to \u00a315 for Amazon marketplace and mass-market serums, up to \u00a379 for prestige ones. High-end exosome serums can cost much more, for example <cite index=\"18-12\">\u00a3315 for one brand</cite>. Availability is broad, but the exosome end is mostly premium or specialist.",
+      "evidence": [
+        {
+          "source_type": "retailer_report",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-04",
+          "growth_pct": 167.0,
+          "metric_text": "Superdrug said PDRN products were up 167% year on year in March, and it expanded its K-beauty range. One Korean PDRN brand was a standout performer over the previous six months.",
+          "source_name": "FashionNetwork UK (Superdrug K-beauty expansion)",
+          "url": "https://uk.fashionnetwork.com/news/Superdrug-expands-omnichannel-k-beauty-offer-as-demand-grows-for-international-brands,1824553.html"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2025-12",
+          "growth_pct": null,
+          "metric_text": "On Amazon UK, a leading salmon-DNA PDRN ampoule serum showed '200+ bought in past month'. Many other PDRN serums were listed, priced from about \u00a34 to \u00a323.",
+          "source_name": "Amazon UK search results (salmon DNA serum)",
+          "url": "https://www.amazon.co.uk/salmon-dna-serum/s?k=salmon+dna+serum"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "A Cosmetics Business K-beauty trends report names PDRN and spicule serums as the latest wave. A UK K-beauty retailer says PDRN and exosomes are generating significant interest. Superdrug is quoted on rising K-beauty demand.",
+          "source_name": "Cosmetics Business",
+          "url": "https://cosmeticsbusiness.com/cosmetics-business-reveals-the-top-5-k-beauty-1"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-05",
+          "growth_pct": null,
+          "metric_text": "A British premium brand, owned by L'Or\u00e9al, is running a London pop-up with Space NK for a new PDRN-plus-exosome serum. The serum has a triple exosome complex and costs \u00a379.",
+          "source_name": "Cosmetics Business (Medik8 / Space NK pop-up)",
+          "url": "https://www.cosmeticsbusiness.com/medik8-to-open-lab-themed-uk-pop-up-with-space-nk"
+        },
+        {
+          "source_type": "market_report",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-06",
+          "growth_pct": 609.8,
+          "metric_text": "Spate data shows PDRN with 37.2M average monthly interactions across Google, TikTok and Instagram, up 609.8% year on year. It predicts a further 34.4% growth and says this is not a short-lived spike.",
+          "source_name": "Spate",
+          "url": "https://www.spate.nyc/blog/pdrn-in-skincare-what-the-consumer-data-tells-beauty-brands-about-the-next-big-active"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "A TikTok discover page for 'salmon sperm facial' shows 3.5M posts, with clinic promotions and some 'facial gone wrong' warning videos. This is global, not UK-specific.",
+          "source_name": "TikTok Discover",
+          "url": "https://www.tiktok.com/discover/salmon-semmen-facial"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-07",
+          "growth_pct": null,
+          "metric_text": "Beauty Independent's 2026 trends piece says exosome products are gaining traction and PDRN has gone mainstream. It says glass-skin and PDRN products are still hugely popular and not slowing down.",
+          "source_name": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "flat",
+          "geography": "other",
+          "date": "2026-10",
+          "growth_pct": null,
+          "metric_text": "Possible fading or backlash signal, not a measured sales decline. A Dermatology Times piece from this month says over-the-counter exosome serums have thin, mostly preclinical evidence and that marketing claims are the main concern. I found no data showing falling UK sales or searches for PDRN or exosome serums.",
+          "source_name": "Dermatology Times",
+          "url": "https://www.dermatologytimes.com/view/social-media-mythbusters-exosomes-in-skin-care"
+        }
+      ],
+      "search_urls": [
+        "https://cosmeticsbusiness.com/cosmetics-business-reveals-the-top-5-k-beauty-1",
+        "https://uk.fashionnetwork.com/news/Superdrug-expands-omnichannel-k-beauty-offer-as-demand-grows-for-international-brands,1824553.html",
+        "https://www.amazon.co.uk/salmon-dna-serum/s?k=salmon+dna+serum",
+        "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/",
+        "https://www.cosmeticsbusiness.com/medik8-to-open-lab-themed-uk-pop-up-with-space-nk",
+        "https://www.dermatologytimes.com/view/social-media-mythbusters-exosomes-in-skin-care",
+        "https://www.spate.nyc/blog/pdrn-in-skincare-what-the-consumer-data-tells-beauty-brands-about-the-next-big-active",
+        "https://www.tiktok.com/discover/salmon-semmen-facial"
+      ]
+    },
+    {
+      "trend_name": "Pickle-flavoured and sweet-sour pickle snacks (pickle fruit roll-ups, chamoy-style coated sweets)",
+      "category": "savoury_snacks",
+      "origin_country": "United States / Mexico",
+      "why": "TikTok is 'savoury-maxxing' with pickled and salty snack plates, and loaded pickle-and-chamoy fruit roll-ups are going viral at US pop-ups, with little equivalent in UK shops.",
+      "uk_availability": "limited",
+      "availability_reason": "Chamoy-coated sweets and pickle-candy kits are sold mainly through online and specialist channels in the UK. I found them on Amazon UK, Etsy UK, eBay UK, TikTok Shop sellers, a US-sweets e-tailer and a cash-and-carry distributor. I found no listings for pickle fruit roll-ups or chamoy sweets on supermarket shelves. Mainstream chains are stocking savoury pickle products instead: Co-op dill pickle crisps, an Aldi pickle dip, and pickle juice in 192 Waitrose stores. A UK confectionery distributor has launched pickle-flavoured sour straws and bites, available to retailers via its app and a cash-and-carry. B&M stocks US sweets generally, but I found no pickle or chamoy lines there.",
+      "evidence": [
+        {
+          "source_type": "search_data",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-05",
+          "growth_pct": 152.0,
+          "metric_text": "Co-op reported that searches for 'pickle' on its website rose 152% in the year to 26 March 2026. It launched limited-edition dill pickle crisps for summer 2026. This is a savoury product, not a sweet-sour one, but it shows UK mainstream demand for pickle flavour.",
+          "source_name": "Grocery Gazette",
+          "url": "https://www.grocerygazette.co.uk/2026/05/18/is-this-the-summer-of-the-pickle-for-grocery/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2024-08",
+          "growth_pct": null,
+          "metric_text": "A UK confectionery distributor brought a US pickle-flavoured sour straw and bites range to the UK. It said the range sold out within two days of its US launch. It is sold to retailers via the distributor's app and a cash-and-carry. The date is approximate, based on the page's reported age.",
+          "source_name": "Better Retailing",
+          "url": "https://www.betterretailing.com/br/product-news/sour-punch-pickle-roulette-rolls-into-uk/"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-09",
+          "growth_pct": null,
+          "metric_text": "TikTok pages for the pickle fruit roll-up trend were updated in late September 2026. They show active videos with chamoy, Tajin and Takis, some with over 100K likes. This is mostly US-centric content, and the origin is the 2022-23 'chamoy pickle kit' wave.",
+          "source_name": "TikTok Discover (Pickle Trend with Fruit Roll Up)",
+          "url": "https://www.tiktok.com/discover/pickle-trend-with-fruit-roll-up"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "A UK chamoy sweets seller is active on TikTok Shop. Creator videos tagged TikTokMadeMeBuyIt and PickleKit have tens of thousands of likes, such as one with 29.7K likes. Chamoy-style sweets are being sold and reviewed in the UK through social commerce.",
+          "source_name": "TikTok Discover (Chamoy Guys UK)",
+          "url": "https://www.tiktok.com/discover/chamoy-guys-uk"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-09",
+          "growth_pct": 30.0,
+          "metric_text": "US pickle-flavoured snacks (chips, crackers, popcorn, pretzels) grew 30% in sales over the past year, per Circana data cited by the Wall Street Journal. Datassential counted over 80 million pickle-related social engagements in 12 months. This is US data and covers savoury snacks, not candy.",
+          "source_name": "Fox News",
+          "url": "https://www.foxnews.com/food-drink/americas-pickle-obsession-explodes-flavor-spreads-from-chips-pizza-smoothies-toothpaste"
+        },
+        {
+          "source_type": "prediction",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-01",
+          "growth_pct": null,
+          "metric_text": "A development chef at a UK biscuit and snack maker said pickle flavour has moved from drinks and snacks into sweet profiles. This supports the shift from savoury pickle to sweet-sour pickle products.",
+          "source_name": "Food Manufacture",
+          "url": "https://www.foodmanufacture.co.uk/Products/the-biggest-food-and-drink-trends-2026/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "falling",
+          "geography": "other",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "US trend coverage says savoury, briny flavours are overtaking sugar-driven viral treats, and that candy-coated creations no longer lead social feeds. It also notes that sales of extreme hot-and-spicy flavours have cooled. This is a possible fading signal for sweet-sour candy formats, even as plain pickle flavour holds up.",
+          "source_name": "Food Drink Life",
+          "url": "https://fooddrinklife.com/pickle-takeover-savory-snacking/"
+        }
+      ],
+      "search_urls": [
+        "https://fooddrinklife.com/pickle-takeover-savory-snacking/",
+        "https://www.betterretailing.com/br/product-news/sour-punch-pickle-roulette-rolls-into-uk/",
+        "https://www.foodmanufacture.co.uk/Products/the-biggest-food-and-drink-trends-2026/",
+        "https://www.foxnews.com/food-drink/americas-pickle-obsession-explodes-flavor-spreads-from-chips-pizza-smoothies-toothpaste",
+        "https://www.grocerygazette.co.uk/2026/05/18/is-this-the-summer-of-the-pickle-for-grocery/",
+        "https://www.tiktok.com/discover/chamoy-guys-uk",
+        "https://www.tiktok.com/discover/pickle-trend-with-fruit-roll-up"
+      ]
+    },
+    {
+      "trend_name": "Beef tallow moisturisers and body balms",
+      "category": "bodycare",
+      "origin_country": "United States",
+      "why": "Beef tallow moisturiser is one of the fastest-growing skincare search terms in 2026 (+472%), driven by 'ancestral' and non-toxic beauty content, and it is barely stocked in UK high-street shops.",
+      "uk_availability": "limited",
+      "availability_reason": "In the UK the products are mainly sold online. I found them on Amazon.co.uk, Etsy, small independent UK brand sites and a specialist wellness e-tailer. I did not find them on the shelves or product pages of major high-street chains. Holland & Barrett's tallow listing that I found is edible cooking tallow, not skincare. Its skin balm category page showed no tallow balms in the results. Holland & Barrett has run an editorial feature on 'viral' tallow skincare. One UK brand is recruiting wholesale stockists among farm shops and wellness boutiques, which suggests physical retail is still only emerging.",
+      "evidence": [
+        {
+          "source_type": "search_data",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2025-10",
+          "growth_pct": 326.0,
+          "metric_text": "UK-published article citing third-party search analysis: online interest in 'beef tallow for skin' up 326% year-on-year, with over 111,000 monthly searches in August 2025.",
+          "source_name": "Marie Claire UK",
+          "url": "https://www.marieclaire.co.uk/beauty/skincare/beef-tallow-skin-benefits"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2025-11",
+          "growth_pct": null,
+          "metric_text": "Amazon.co.uk tallow skincare listings show badges such as '300+ bought in past month' and '500+ bought in past month' on individual whipped tallow balms and moisturisers, in a Black Friday listing. This is a snapshot of demand, not a trend measure.",
+          "source_name": "Amazon.co.uk search results",
+          "url": "https://www.amazon.co.uk/beef-tallow-skin-care/s?k=beef+tallow+skin+care"
+        },
+        {
+          "source_type": "retailer_report",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-02",
+          "growth_pct": null,
+          "metric_text": "UK wellness e-tailer Healf runs a dedicated tallow balm and soap collection from named UK/Irish brands. UK high-street chains are not evident. Holland & Barrett published a feature testing the 'viral' product.",
+          "source_name": "Healf (tallow collection)",
+          "url": "https://healf.com/collections/tallow"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "flat",
+          "geography": "UK",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "TikTok topic page (last updated Aug 2026) shows UK users posting about tallow balm and Holland & Barrett hauls. One user reports five months of use for hormonal acne. This is ongoing but modest engagement, with no clear growth figure.",
+          "source_name": "TikTok discover page",
+          "url": "https://www.tiktok.com/discover/holland-ans-barret-beed-tallow"
+        },
+        {
+          "source_type": "market_report",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2025-05",
+          "growth_pct": null,
+          "metric_text": "Global tallow balm market report with a regional breakdown that includes the UK. It forecasts growth, saying wellness and health & beauty stores are the leading distribution channel and online retail is the fastest-growing one.",
+          "source_name": "Fortune Business Insights",
+          "url": "https://www.fortunebusinessinsights.com/tallow-balm-market-112499"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "falling",
+          "geography": "other",
+          "date": "2026-07",
+          "growth_pct": null,
+          "metric_text": "FADING signal: trade article says tallow had hockey-stick growth from early 2024 through 2025 but recent data shows interest cooling. It describes this as the typical lifecycle of a viral TikTok trend.",
+          "source_name": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/"
+        },
+        {
+          "source_type": "prediction",
+          "direction": "falling",
+          "geography": "other",
+          "date": "2026-02",
+          "growth_pct": null,
+          "metric_text": "FADING signal: a 2026 skincare trends forecast lists beef tallow as 'OUT'. An expert quoted expects it to fall by the wayside in 2026 because it doesn't deliver on its online claims.",
+          "source_name": "Who What Wear",
+          "url": "https://www.whowhatwear.com/beauty/skin/2026-skincare-trends"
+        }
+      ],
+      "search_urls": [
+        "https://healf.com/collections/tallow",
+        "https://www.amazon.co.uk/beef-tallow-skin-care/s?k=beef+tallow+skin+care",
+        "https://www.beautyindependent.com/top-skincare-trends-2026-those-losing-sizzle/",
+        "https://www.fortunebusinessinsights.com/tallow-balm-market-112499",
+        "https://www.marieclaire.co.uk/beauty/skincare/beef-tallow-skin-benefits",
+        "https://www.tiktok.com/discover/holland-ans-barret-beed-tallow",
+        "https://www.whowhatwear.com/beauty/skin/2026-skincare-trends"
+      ]
+    },
+    {
+      "trend_name": "Cottage-cheese-based ice cream and frozen dessert tubs",
+      "category": "ice_cream",
+      "origin_country": "United States",
+      "why": "Cottage cheese ice cream is a viral high-protein TikTok recipe and US brands have launched it as a product, while UK cottage cheese spend rose 41.9% in 2025 and UK shops mostly sell it only as a pot of cheese.",
+      "uk_availability": "none",
+      "availability_reason": "I found no ready-made cottage-cheese-based ice cream or frozen dessert tub on sale in UK shops. The one dedicated brand I found is US-only. A trade article describes it as still the only frozen cottage cheese product in the US two years after launch. UK demand is for chilled cottage cheese, which is widely stocked at Tesco, Sainsbury's, Ocado and Waitrose and often used for home-made 'ice cream' recipes, including in Ninja Creami machines. The nearest UK frozen product is a Scottish dairy's dairy-protein ice cream, sold at Lidl in Scotland. It is not described as cottage-cheese-based. Making it at home is the main way UK shoppers can try the trend.",
+      "evidence": [
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-01",
+          "growth_pct": 54.0,
+          "metric_text": "NIQ data: UK cottage cheese value sales rose 54% year on year to \u00a3105.5m in the 52 weeks to 27 Dec 2025. Own-label dominates. The 65-plus group drove most of the growth (\u00a39.3m of it), while under-34 sales only edged up from \u00a38.9m to \u00a39.7m. This is chilled cottage cheese, not frozen desserts.",
+          "source_name": "The Grocer",
+          "url": "https://www.thegrocer.co.uk/analysis-and-features/the-cottage-cheese-comeback-and-why-demand-is-in-overdrive/714278.article"
+        },
+        {
+          "source_type": "retailer_report",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-01",
+          "growth_pct": 200.0,
+          "metric_text": "Tesco says its cottage cheese sales are up 200% and it is launching own-label cottage cheese lines. The article names cottage cheese ice cream as one of the popular influencer recipes driving demand.",
+          "source_name": "Grocery Gazette",
+          "url": "https://www.grocerygazette.co.uk/2026/01/20/tesco-launching-cottage-cheese-as-demand-has-rocketed/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "flat",
+          "geography": "other",
+          "date": "2026-05",
+          "growth_pct": null,
+          "metric_text": "A US challenger brand sells a high-protein cottage-cheese ice cream pint (about 40g protein) and is expanding retail distribution. The article calls it still the only frozen cottage cheese product in the US two years after launch, so it remains a niche. No UK equivalent was found.",
+          "source_name": "BakeryandSnacks.com",
+          "url": "https://www.bakeryandsnacks.com/Article/2026/05/29/smearcase-froco-cottage-cheese-ice-cream-disrupts-frozen-aisle/"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-07",
+          "growth_pct": null,
+          "metric_text": "TikTok's topic page for cottage cheese ice cream with dates was updated in July 2026. It shows creators still posting recipes, with one video at about 10.2K likes. The creator says they were sceptical of the trend. Fresh content, but not UK-specific.",
+          "source_name": "TikTok",
+          "url": "https://www.tiktok.com/discover/cottage-cheese-ice-cream-and-dates"
+        },
+        {
+          "source_type": "market_report",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-06",
+          "growth_pct": 10.0,
+          "metric_text": "Tastewise says consumer engagement with cottage cheese grew 10% over the past year, and 17.4% among health-conscious audiences. It calls this a structural shift rather than a spike. It covers cottage cheese in general, not ice cream specifically.",
+          "source_name": "Tastewise",
+          "url": "https://tastewise.io/blog/cottage-cheese-trends"
+        },
+        {
+          "source_type": "prediction",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-02",
+          "growth_pct": null,
+          "metric_text": "The managing director of a Scottish dairy says cottage cheese is a fundamental shift in how people eat, not a short-lived craze. The company has invested \u00a33.5m to expand output by 50%. This is a supplier's view, and it concerns chilled cottage cheese.",
+          "source_name": "The Grocer",
+          "url": "https://www.thegrocer.co.uk/news/grahams-the-family-dairy-launches-category-first-layered-cottage-cheese/716489.article"
+        },
+        {
+          "source_type": "search_data",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2024-11",
+          "growth_pct": null,
+          "metric_text": "Google searches for 'cottage cheese' hit their highest level since 2004, according to Australian dietitians. The piece lists ice cream among the new uses. This is an older data point, and nothing newer shows whether it has held.",
+          "source_name": "The Conversation",
+          "url": "https://theconversation.com/cottage-cheese-is-back-and-all-over-tiktok-two-dietitians-explain-why-social-medias-obsessed-236512"
+        }
+      ],
+      "search_urls": [
+        "https://tastewise.io/blog/cottage-cheese-trends",
+        "https://theconversation.com/cottage-cheese-is-back-and-all-over-tiktok-two-dietitians-explain-why-social-medias-obsessed-236512",
+        "https://www.bakeryandsnacks.com/Article/2026/05/29/smearcase-froco-cottage-cheese-ice-cream-disrupts-frozen-aisle/",
+        "https://www.grocerygazette.co.uk/2026/01/20/tesco-launching-cottage-cheese-as-demand-has-rocketed/",
+        "https://www.thegrocer.co.uk/analysis-and-features/the-cottage-cheese-comeback-and-why-demand-is-in-overdrive/714278.article",
+        "https://www.thegrocer.co.uk/news/grahams-the-family-dairy-launches-category-first-layered-cottage-cheese/716489.article",
+        "https://www.tiktok.com/discover/cottage-cheese-ice-cream-and-dates"
+      ]
+    },
+    {
+      "trend_name": "Hojicha (roasted green tea) lattes, powders and ready-to-drink bottles",
+      "category": "tea_coffee",
+      "origin_country": "Japan",
+      "why": "UK social chatter about hojicha rose 109% between July 2024 and July 2026, and London caf\u00e9s are adding it as a lower-caffeine alternative to matcha, but I found no sign of mainstream grocery ready-to-drink or powder ranges yet.",
+      "uk_availability": "limited",
+      "availability_reason": "Hojicha is easy to get in London specialist caf\u00e9s and online. In shops it is patchy. A UK-focused powder guide said hojicha powder was not in Tesco, Waitrose, Sainsbury's or M&S in 2026 and that most supermarkets don't stock it. That guide is from a seller of the product and is about 11 months old, so it may be out of date. Since then, an organic hojicha powder (\u00a38.99/40g) launched on Ocado, with a wider retail rollout planned for later in summer 2026. I did not find confirmation that the rollout happened. Other UK suppliers of powdered hojicha include PerfectTed and OMGTeas. A sparkling hojicha tea in bottles is sold through Harrods, Drinks Supermarket and Amazon UK, which is premium and niche rather than mass-market. I found no hojicha latte ready-to-drink bottles in mainstream UK supermarkets. Loose-leaf and tea-bag hojicha is more widely sold (e.g. \u00a33.49 for 20 sachets from one organic brand's website).",
+      "evidence": [
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-06",
+          "growth_pct": 55.0,
+          "metric_text": "A London matcha caf\u00e9 chain said iced hojicha latte sales rose 55% across its six London caf\u00e9s in January\u2013April versus the same period a year earlier. Reported by The Grocer alongside a new organic hojicha powder launch on Ocado.",
+          "source_name": "The Grocer",
+          "url": "https://www.thegrocer.co.uk/news/clearspring-looks-to-tap-japanese-tea-demand-with-organic-hojicha-powder/720554.article"
+        },
+        {
+          "source_type": "search_data",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-04",
+          "growth_pct": 173.0,
+          "metric_text": "Google Trends figures cited by a UK magazine: global searches for 'hojicha' up 54.6% since early 2025, and 'hojicha latte' up 173%. These are global figures, not UK-only.",
+          "source_name": "Country & Town House",
+          "url": "https://www.countryandtownhouse.com/food-and-drink/hojicha-trend/"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-08",
+          "growth_pct": 109.0,
+          "metric_text": "Tastewise data, cited by a trade title, shows UK social media conversation about hojicha up 109% between July 2024 and July 2026. The same article says hojicha is still mostly in speciality caf\u00e9s, on the periphery.",
+          "source_name": "Food Manufacture",
+          "url": "https://www.foodmanufacture.co.uk/Article/2026/08/28/what-is-hojicha-and-can-it-overtake-matchas-popularity/"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-09",
+          "growth_pct": null,
+          "metric_text": "TikTok hojicha review and recipe pages were updated as recently as late September 2026. Creators are still posting powder reviews and latte recipes, with some videos at thousands of likes. The content is mostly not UK-specific, so it shows continued activity rather than a UK trend.",
+          "source_name": "TikTok (Hojicha Reviews discover page)",
+          "url": "https://www.tiktok.com/discover/hojicha-reviews"
+        },
+        {
+          "source_type": "market_report",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-05",
+          "growth_pct": 7.1,
+          "metric_text": "A trade article citing Data Intelo values the global hojicha market at $2.1bn, projected to reach $3.9bn by 2034 (7.1% CAGR), with North America and Europe driving growth. It also notes hojicha appearing in ready-to-drink products.",
+          "source_name": "FoodNavigator",
+          "url": "https://www.foodnavigator.com/Article/2026/05/29/is-hojicha-the-new-matcha-roasted-tea-trend-gains-traction-in-food-and-drink-industry/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2025-11",
+          "growth_pct": null,
+          "metric_text": "London caf\u00e9 staff report rising hojicha sales. They link this to matcha supply problems and price rises, which make hojicha a cheaper alternative, and to social media and Japan tourism.",
+          "source_name": "SW Londoner",
+          "url": "https://www.swlondoner.co.uk/food-drink/14112025-hojicha-the-roasted-japanese-tea-taking-londons-cafe-scene-by-storm"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-09",
+          "growth_pct": 17.6,
+          "metric_text": "US restaurant data (Technomic) shows hojicha on restaurant menus up 17.6% in Q2 2026, but from a very low baseline. The author calls it early days for the trend.",
+          "source_name": "Restaurant Business",
+          "url": "https://www.restaurantbusinessonline.com/beverage/hojicha-just-starting-trend"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "falling",
+          "geography": "other",
+          "date": "2026-03",
+          "growth_pct": null,
+          "metric_text": "Weak sign of a cooling trend, not UK data. An Amazon trends summary says sales of hojicha tea varieties rose from Oct 2025 to a February 2026 peak, then dipped slightly in March 2026. Search volume peaked in January 2026. No source I found says the trend is clearly fading.",
+          "source_name": "Accio",
+          "url": "https://www.accio.com/business/trends-of-hojicha"
+        }
+      ],
+      "search_urls": [
+        "https://www.accio.com/business/trends-of-hojicha",
+        "https://www.countryandtownhouse.com/food-and-drink/hojicha-trend/",
+        "https://www.foodmanufacture.co.uk/Article/2026/08/28/what-is-hojicha-and-can-it-overtake-matchas-popularity/",
+        "https://www.foodnavigator.com/Article/2026/05/29/is-hojicha-the-new-matcha-roasted-tea-trend-gains-traction-in-food-and-drink-industry/",
+        "https://www.restaurantbusinessonline.com/beverage/hojicha-just-starting-trend",
+        "https://www.swlondoner.co.uk/food-drink/14112025-hojicha-the-roasted-japanese-tea-taking-londons-cafe-scene-by-storm",
+        "https://www.thegrocer.co.uk/news/clearspring-looks-to-tap-japanese-tea-demand-with-organic-hojicha-powder/720554.article",
+        "https://www.tiktok.com/discover/hojicha-reviews"
+      ]
+    },
+    {
+      "trend_name": "Tea-flavoured fizzy drinks (soda-and-iced-tea hybrids)",
+      "category": "soft_drinks_added_sugar",
+      "origin_country": "United States",
+      "why": "A viral recipe of cold-steeping tea bags in lemon-lime soda has already led to a major US soft-drink launch, and I found no equivalent in UK shops.",
+      "uk_availability": "limited",
+      "availability_reason": "Plain iced tea is easy to find in the UK. A price-comparison page covers 74 iced tea products across 9 supermarkets, including Aldi, Asda, Tesco and Waitrose (allsupers.co.uk, Aug 2026). True soda-tea hybrids are much scarcer. The US soda-and-tea launch was sold only in the US and Canada. The UK sparkling teas I found are small niche launches: Twinings' canned range (\u00a31.89 on its own site), which the brand describes as lightly sparkling rather than fizzy, and a new brand that has so far launched only direct-to-consumer and at events. I found no confirmed listings of fizzy tea hybrids on UK supermarket shelves, so I rate availability limited.",
+      "evidence": [
+        {
+          "source_type": "market_report",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2025-12",
+          "growth_pct": null,
+          "metric_text": "A UK market-research listing says ready-to-drink tea kept growing strongly in off-trade volume and value in 2025, helped by a rapid rise in carbonated RTD tea and kombucha. The listing does not give a growth figure or a precise publication date; the date here is my estimate.",
+          "source_name": "MarketResearch.com (UK Coffee & Tea reports listing)",
+          "url": "https://www.marketresearch.com/seek/Coffee-Tea-United-Kingdom/471/1323/1.html"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-01",
+          "growth_pct": null,
+          "metric_text": "A major tea brand launched canned sparkling teas in the UK (green tea, peach, apple juice and elderflower, under 50 kcal per 250ml can) as part of a push into lower-sugar soft drinks. The brand's own page says the cans are lightly sparkling rather than fizzy.",
+          "source_name": "BeverageDaily",
+          "url": "https://www.beveragedaily.com/Article/2026/01/23/2026-beverage-launches-spotlight-flavour-function-and-ritual/"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-07",
+          "growth_pct": null,
+          "metric_text": "A new UK iced tea start-up launched via direct-to-consumer and event sales, aiming to introduce a new segment of sparkling iced tea to a big-four retailer. It is not yet in supermarkets.",
+          "source_name": "The Grocer",
+          "url": "https://www.thegrocer.co.uk/news/ex-diageo-and-ccep-brothers-launch-bespring-iced-tea-brand/721916.article"
+        },
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-07",
+          "growth_pct": 83.0,
+          "metric_text": "A UK premium tea seller reported iced tea sales up 83% in June compared with the previous month, driven by heatwaves, with some flavours selling out. This is month-on-month, seasonal and for still iced tea, not fizzy hybrids, so it is only indirect support.",
+          "source_name": "Grocery Gazette",
+          "url": "https://www.grocerygazette.co.uk/2026/07/09/adagio-teas-reports-surge-in-iced-tea-sales/"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "flat",
+          "geography": "other",
+          "date": "2026-08",
+          "growth_pct": null,
+          "metric_text": "The TikTok soda-and-tea-bag recipes were still being posted recently, for example 'viral Hong Kong Sprite iced tea' videos from Malaysian creators. The trend started in 2023, so recent posts show persistence rather than new growth. I found no UK-specific TikTok, Reddit or X data.",
+          "source_name": "TikTok (Tea and Sprite discover page)",
+          "url": "https://www.tiktok.com/discover/tea-and-sprite"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-05",
+          "growth_pct": null,
+          "metric_text": "In the US and Canada, the soda-and-tea launch inspired by the TikTok trend returned in May 2026 as a permanent annual summer limited-edition. The brand cited proven success and popular demand.",
+          "source_name": "Food Network",
+          "url": "https://www.foodnetwork.com/fn-dish/news/sprite-tea-is-coming-back-for-a-limited-time"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "falling",
+          "geography": "other",
+          "date": "2025-11",
+          "growth_pct": null,
+          "metric_text": "Fading or weak signal: after the 2025 US limited run, a review piece called the soda-tea hybrid the worst flavour in its range and was glad the shelf space was cleared. Taste testers found the tea and lime flavours clashed. This is a single critical opinion, and the product was later brought back for 2026.",
+          "source_name": "Tasting Table",
+          "url": "https://www.tastingtable.com/2011017/worst-sprite-flavor-tea/"
+        },
+        {
+          "source_type": "prediction",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-05",
+          "growth_pct": null,
+          "metric_text": "A UK trade magazine's 2026 drinks trends list says iced teas are beginning to make waves in Britain. It also places fancy iced tea within the craft soda trend, but it does not cover fizzy soda-tea hybrids specifically.",
+          "source_name": "Speciality Food Magazine",
+          "url": "https://www.specialityfoodmagazine.com/food-and-drink/drinks-trends-uk"
+        }
+      ],
+      "search_urls": [
+        "https://www.beveragedaily.com/Article/2026/01/23/2026-beverage-launches-spotlight-flavour-function-and-ritual/",
+        "https://www.foodnetwork.com/fn-dish/news/sprite-tea-is-coming-back-for-a-limited-time",
+        "https://www.grocerygazette.co.uk/2026/07/09/adagio-teas-reports-surge-in-iced-tea-sales/",
+        "https://www.marketresearch.com/seek/Coffee-Tea-United-Kingdom/471/1323/1.html",
+        "https://www.specialityfoodmagazine.com/food-and-drink/drinks-trends-uk",
+        "https://www.tastingtable.com/2011017/worst-sprite-flavor-tea/",
+        "https://www.thegrocer.co.uk/news/ex-diageo-and-ccep-brothers-launch-bespring-iced-tea-brand/721916.article",
+        "https://www.tiktok.com/discover/tea-and-sprite"
+      ]
+    },
+    {
+      "trend_name": "Sparkling cold brew coffee tonics (fruit and citrus coffee-soda canned drinks)",
+      "category": "tea_coffee",
+      "origin_country": "South Korea",
+      "why": "Caf\u00e9s in South Korea and Malaysia are launching lemon- and apple-flavoured sparkling cold brews, while UK ready-to-drink coffee is already growing double digits (+10.2% value in July 2026) with few fizzy coffee options.",
+      "uk_availability": "limited",
+      "availability_reason": "I found no UK supermarket listing for a sparkling coffee-tonic or coffee-soda can. UK shelf coffee in cans is mostly dairy or oat-milk iced lattes, for example Oatly's iced coffee cans in more than 400 Tesco stores. The sparkling products I found were a UK direct-to-consumer 4-pack of sparkling tonic coffee cans, a bottled coffee tonic water from a German brand (reviewed by Difford's Guide in 2019), and US canned espresso tonics on Amazon.com. The category is niche, sold online or through specialist channels, and not stocked widely in UK shops.",
+      "evidence": [
+        {
+          "source_type": "retail_sales",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2025-09",
+          "growth_pct": 10.5,
+          "metric_text": "UK retail value of all RTD iced coffee was over \u00a3367m and up 10.5% year on year (Circana/IRI), with chilled RTD coffee up 15.1%. This is the wider category, not sparkling coffee specifically.",
+          "source_name": "Grocery Trader",
+          "url": "https://grocerytrader.co.uk/coffee-shop-trends-drive-demand-hot-beverages-and-rtd-cold-coffee-are-both-in-growth/"
+        },
+        {
+          "source_type": "retailer_report",
+          "direction": "rising",
+          "geography": "UK",
+          "date": "2026-01",
+          "growth_pct": null,
+          "metric_text": "Oatly launched oat-based iced coffee cans in more than 400 Tesco stores and said Gen Z is driving a surge in cold coffee formats. The cans are milk-style lattes, not sparkling coffee tonics, so this shows what UK supermarkets stock rather than the trend itself.",
+          "source_name": "The Grocer",
+          "url": "https://www.thegrocer.co.uk/news/oatly-iced-coffee-cans-launch-into-tesco/712164.article"
+        },
+        {
+          "source_type": "trade_press",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2026-07",
+          "growth_pct": null,
+          "metric_text": "A US trade article says coffee tonics are on the rise. It cites a lemon tonic cold brew run as a limited-time offer by a South Korean caf\u00e9 chain, and an apple sparkling cold brew from a chain in Malaysia.",
+          "source_name": "Restaurant Business Online",
+          "url": "https://www.restaurantbusinessonline.com/beverage/taste-latest-global-beverage-trends"
+        },
+        {
+          "source_type": "social_media",
+          "direction": "rising",
+          "geography": "other",
+          "date": "2021-04",
+          "growth_pct": null,
+          "metric_text": "A lifestyle site reported #coffeetonic going from 2,000 to 8,000 Instagram posts in a week, and a TikTok tonic coffee hashtag getting 6,000 views in its first 24 hours. The hype is old and small, and I found no recent TikTok, Reddit or X data.",
+          "source_name": "My Imperfect Life",
+          "url": "https://www.myimperfectlife.com/news/coffee-tonic-instagram-trend"
+        },
+        {
+          "source_type": "search_data",
+          "direction": "flat",
+          "geography": "other",
+          "date": "2026-04",
+          "growth_pct": null,
+          "metric_text": "This is a possible fading signal. A Google Trends summary found 'Korean cold brew coffee' searches stayed low apart from a brief surge in November 2025, which suggests niche interest. The geography is not stated.",
+          "source_name": "Accio",
+          "url": "https://www.accio.com/business/korean_trend_coffee"
+        },
+        {
+          "source_type": "market_report",
+          "direction": "flat",
+          "geography": "UK",
+          "date": "2026-04",
+          "growth_pct": null,
+          "metric_text": "This is a possible fading signal. Mintel says UK shoppers want less sweet and more challenging flavours, and cites unsweetened RTD coffee as a success. It also warns that weak consumer confidence and tight household budgets in 2026 are likely to hold back experimentation with new soft drink flavours.",
+          "source_name": "Mintel (UK Flavour Trends in Soft Drinks: 2026)",
+          "url": "https://store.mintel.com/report/uk-flavour-trends-in-soft-drinks-market-report"
+        }
+      ],
+      "search_urls": [
+        "https://grocerytrader.co.uk/coffee-shop-trends-drive-demand-hot-beverages-and-rtd-cold-coffee-are-both-in-growth/",
+        "https://store.mintel.com/report/uk-flavour-trends-in-soft-drinks-market-report",
+        "https://www.accio.com/business/korean_trend_coffee",
+        "https://www.myimperfectlife.com/news/coffee-tonic-instagram-trend",
+        "https://www.restaurantbusinessonline.com/beverage/taste-latest-global-beverage-trends",
+        "https://www.thegrocer.co.uk/news/oatly-iced-coffee-cans-launch-into-tesco/712164.article"
+      ]
+    }
+  ],
+  "note": "Live agent run of 3 Oct 2026, 12:26 (claude-sonnet-5-5, 8 trends), rebuilt from that run's trend_scores.csv and trend_evidence.csv. All 59 evidence URLs were verified in the live run."
+}
